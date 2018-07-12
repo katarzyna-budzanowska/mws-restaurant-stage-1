@@ -167,6 +167,13 @@ nav h1 a {
     #restaurants-list li {
         width: 100%;
     }
+
+		.filter-options {
+			height: 120px;
+			display: flex;
+			flex-direction: column;
+			padding: 10px;
+		}
 }
 #restaurants-list .restaurant-img {
   background-color: #ccc;
